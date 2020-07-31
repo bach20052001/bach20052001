@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- «-(¯`v´¯)-« I'm ʙᴀᴄʜ. »-(¯`v´¯)-»
+- ♉ ⚦ 
+- 🌱 I’m currently learning Computer Engineering in Vietnam National University in Ha Noi,Viet Nam.
+- 🤔 I was especially interested in data science
+- I am currently looking for internships in Web/App development and Data Analytics.
 <!--
 **bach20052001/bach20052001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
