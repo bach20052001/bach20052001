@@ -3,7 +3,7 @@
 - «-(¯`v´¯)-« I'm ʙᴀᴄʜ. »-(¯`v´¯)-»
 - ♉ ⚦ 
 - 🌱 I’m currently learning Computer Engineering in Vietnam National University in Ha Noi,Viet Nam.
-- 🤔 I was especially interested in data science
+- 🤔 I was especially interested in Data Science
 - I am currently looking for internships in Web/App development and Data Analytics.
 - Contact :
     - Facebook : https://www.facebook.com/dinhbach200501/
