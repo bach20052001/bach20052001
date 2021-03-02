@@ -13,4 +13,4 @@
     - Github : https://github.com/bach2005200
     
     
-![wp5411734](https://user-images.githubusercontent.com/56787795/109614000-8ac45200-7b64-11eb-96e2-12818c2ced80.jpg)
+![ava K50](https://user-images.githubusercontent.com/56787795/109615855-04f5d600-7b67-11eb-8c2f-a15a51f18107.png)
