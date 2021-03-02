@@ -1,6 +1,6 @@
 ### Hi 👋
 
-# - «-(¯`v´¯)-« I'm ʙᴀᴄʜ. »-(¯`v´¯)-»
+# « I'm ʙᴀᴄʜ. »
 
 - I’m learning Computer Engineering in Vietnam National University.
 - I was especially interested in Game Development.
