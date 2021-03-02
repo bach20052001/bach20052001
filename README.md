@@ -13,4 +13,3 @@
     - Github : https://github.com/bach2005200
     
     
-**bach20052001/bach20052001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
