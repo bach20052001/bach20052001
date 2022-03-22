@@ -14,4 +14,3 @@
     - Github Page : https://bach20052001.github.io/
 
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
